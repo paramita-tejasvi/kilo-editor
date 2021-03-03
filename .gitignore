@@ -1,0 +1,6 @@
+Makefile
+.settings
+.cproject
+.project
+.DS_Store
+
